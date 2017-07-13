@@ -1,0 +1,5 @@
+age young pre-presbyopic presbyopic
+spectacle-presc myope hypermetrope
+astigmatism no yes
+tar-dorp-ract reduced normal
+contact-lenses none soft hard

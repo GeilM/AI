@@ -1,0 +1,5 @@
+young hypermetrope yes reduced
+pre-presbyopic hypermetrope no normal
+pre-presbyopic hypermetrope no reduced
+presbyopic myope yes reduced
+presbyopic hypermetrope no normal
